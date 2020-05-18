@@ -1,0 +1,21 @@
+.container-1 {
+  border: 1px solid red;
+  width: 75%;
+  text-align: center;
+  margin: 0 auto;
+}
+.flex-box-1,
+.flex-box {
+  display: flex;
+  border: 1px solid rgb(51, 136, 192);
+  padding: 10px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.flex-box img {
+  height: 120px;
+  width: 120px;
+  margin: 10px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.7);
+}
