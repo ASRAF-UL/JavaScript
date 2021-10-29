@@ -1,2 +1,3 @@
 ---->yarn start(to start project)
 ---->yarn android(run emulator)
+---->yarn start reset-cache(reset cache)
